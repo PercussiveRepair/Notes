@@ -1,4 +1,4 @@
-vimnotes
+Notes
 ========
 
-Vim Notes - Generic notes on my Vim usage. See the wiki: https://github.com/PercussiveRepair/vimnotes/wiki
+Notes for things - Vi and bash mostly. See the wiki: https://github.com/PercussiveRepair/vimnotes/wiki
